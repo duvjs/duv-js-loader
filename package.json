@@ -1,0 +1,27 @@
+{
+  "name": "duv-js-loader",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duvjs/duv-js-loader.git"
+  },
+  "keywords": [
+    "duv-js-loader",
+    "duv"
+  ],
+  "author": "Andy Xu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duvjs/duv-js-loader/issues"
+  },
+  "homepage": "https://github.com/duvjs/duv-js-loader#readme",
+  "dependencies": {
+    "duv-api-util": "^0.1.0"
+  },
+  "devDependencies": {}
+}
